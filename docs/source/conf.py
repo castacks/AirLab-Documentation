@@ -20,7 +20,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'AirLab'
-copyright = '2021, Andrew Jong'
+copyright = '2021, AirLab'
 author = 'Andrew Jong'
 
 
