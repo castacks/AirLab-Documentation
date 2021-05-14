@@ -1,5 +1,5 @@
-# AirLab-Documentation
-Public documentation for the AirLab. View live at https://theairlab.readthedocs.io.
+# AirLab Documentation
+Public documentation for the [AirLab](http://theairlab.org/) at Carnegie Mellon University. View live at https://theairlab.readthedocs.io.
 
 ## Contributing
 ```
