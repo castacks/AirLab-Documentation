@@ -2,7 +2,7 @@
 Public documentation for the [AirLab](http://theairlab.org/) at Carnegie Mellon University. View live at https://theairlab.readthedocs.io.
 
 ## Contributing
-```
+```bash
 # clone a copy
 git clone git@github.com:castacks/AirLab-Documentation.git
 cd AirLab-Documentation/
