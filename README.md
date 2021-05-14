@@ -1,5 +1,8 @@
 # AirLab Documentation
-Public documentation for the [AirLab](http://theairlab.org/) at Carnegie Mellon University. View live at https://theairlab.readthedocs.io.
+Public documentation for the <a href="http://theairlab.org/" target="_blank">AirLab</a> at Carnegie Mellon University. 
+
+View live at 
+<a href="https://theairlab.readthedocs.io" target="_blank">theairlab.readthedocs.io</a>.
 
 ## Contributing
 ```bash
