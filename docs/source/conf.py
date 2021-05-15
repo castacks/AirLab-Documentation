@@ -49,7 +49,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = "sphinx_rtd_theme"
-html_logo = "Horizontal.svg"
+html_logo = "HorizontalInvert.svg"
 
 html_css_files = [
     'css/custom.css',
@@ -58,7 +58,7 @@ html_css_files = [
 html_theme_options = {
     'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
     'analytics_anonymize_ip': False,
-    'logo_only': False,
+    'logo_only': True,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
