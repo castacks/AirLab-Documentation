@@ -8,6 +8,9 @@ View live at
 
 The general commands are thus:
 ```bash
+# install dependencies
+pip install sphinx
+
 # clone a copy
 git clone git@github.com:castacks/AirLab-Documentation.git
 cd AirLab-Documentation/

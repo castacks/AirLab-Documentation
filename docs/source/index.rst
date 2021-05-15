@@ -28,6 +28,7 @@ This document provides tutorials/guides/manuals of setups and experiments for th
    :hidden:
    :caption: Open Research Drone
    
+   openresearchdrone/introduction
    openresearchdrone/hardware_and_parts
    openresearchdrone/perception_pipeline
    
