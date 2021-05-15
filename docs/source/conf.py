@@ -49,6 +49,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = "sphinx_rtd_theme"
+html_logo = "Horizontal.svg"
 
 html_css_files = [
     'css/custom.css',
