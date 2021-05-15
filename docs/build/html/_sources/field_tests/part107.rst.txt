@@ -21,7 +21,7 @@ It is less than two hours.
 We recommend setting up a "study party" with fellow AirLab members and some snacks.
 
 .. figure:: part107_watch_party.jpg
-  :width: 400
+  :width: 500
   :alt: A study party featuring guacamole, fruit smoothie, oranges, and cheesecake.
 
   A Part 107 study party featuring guacamole, fruit smoothie, oranges, and cheesecake.

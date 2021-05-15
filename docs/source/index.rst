@@ -7,11 +7,11 @@ Welcome to AirLab's documentation!
 ==================================
 
 .. note::
-   These docs are under active development.
+   These docs are under active development. If you're an AirLab member, we could use your help! Contributions welcome.
 
-This document provides tutorials/guides/manuals of setups and experiments in the `AirLab <http://theairlab.org/>`_ at Carnegie Mellon University. 
+This document provides tutorials/guides/manuals of setups and experiments for the `AirLab <http://theairlab.org/>`_ at Carnegie Mellon University. 
 
-**What's included:** general guides that apply to a wide range of projects, e.g. hardware setup, useful software libraries, field testing, and overall tips-and-tricks for UAVs and robots.
+**What's included:** general guides that apply to a wide range of projects, e.g. lab drones, hardware setup, useful software libraries, field testing, and overall tips-and-tricks for UAVs and robots.
 
 **What's not included:** in depth, project specific documentation. Project specific docs can be found on the project's homepage or git repository.
 
@@ -36,6 +36,8 @@ This document provides tutorials/guides/manuals of setups and experiments in the
    :hidden:
    :caption: Ground Robots
 
+   ground_robots/spot
+
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -48,15 +50,7 @@ This document provides tutorials/guides/manuals of setups and experiments in the
    :maxdepth: 2
    :hidden:
    :caption: Field Tests
-   
+
    field_tests/part107
    field_tests/checklist
    field_tests/standard_issue_kit
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
