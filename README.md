@@ -14,10 +14,13 @@ cd AirLab-Documentation/
 
 # build
 cd docs/
-make html
+make clean html
+
+# preview changes by opening build/html/index.html in your browser
+
 # commit build files
 git commit -am "commit message"
-# update online docs, takes a few minutes to update
+# update online docs, takes several minutes to update
 git push
 ```
 
